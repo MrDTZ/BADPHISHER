@@ -1,18 +1,39 @@
 # BADPHISHER
 
-- this is an bste phishing tool...!
+- this is an phishing tool...!
 
 - created By Mr.Devil Dark Tool Zone Admin Team
 
 # For termux
 
-$ pkg update -y
-$ pkg upgrade -y
-$ pkg install bash -y
-$ pkg install wegt -y
-$ pkg install php -y
-$ pkg install curl -y
-$ git clone 
-$ cd BADPHISHER
-$ bash badphisher.sh
+- $ pkg update -y
 
+- $ pkg upgrade -y
+
+- $ pkg install bash -y
+
+- $ pkg install wegt -y
+
+- $ pkg install php -y
+
+- $ pkg install curl -y
+
+- $ git clone https://github.com/MrDTZ/BADPHISHER.git
+
+- $ cd BADPHISHER
+
+- $ bash badphisher.sh
+
+# For kali Linux
+
+- $ sudo apt update
+
+- $ sudo apt upgrade
+
+- $ git clone https://github.com/MrDTZ/BADPHISHER.git
+
+- $ cd BADPHISHER
+
+- $ bash badphisher.sh
+
+# Have a Good Day !!!
