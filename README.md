@@ -1,8 +1,8 @@
-# BADPHISHER
+# 😈 BADPHISHER 😈
 
-- [+] This is an phishing tool...!
+- 📌 This is an phishing tool...!
 
-- [+] created By Mr.Devil Dark Tool Zone Admin Team
+- 📌 created By Mr.Devil Dark Tool Zone Admin Team
 
 # Install for termux
 
