@@ -9,7 +9,7 @@ echo
 echo -e "\e[1;35m[+] Hi You want to update BADPHISHER...!"
 apt update -y
 apt upgrade -y
-git clone https://hithub.com/DTZdevil/BADPHISHER.git
+git clone https://github.com/MrDTZ/BADPHISHER.git
 echo
 
 echo -e "\e[1;32m[+] BADPHISHER tool updated successfuly...!"
