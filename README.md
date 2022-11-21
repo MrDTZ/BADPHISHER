@@ -1,9 +1,10 @@
 # BADPHISHER
 
-this is an bste phishing tool...!
-created By Mr.Devil Dark Tool Zone Admin Team
+- this is an bste phishing tool...!
 
-For termux
+- created By Mr.Devil Dark Tool Zone Admin Team
+
+# For termux
 
 $ pkg update -y
 $ pkg upgrade -y
