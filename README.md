@@ -1,10 +1,10 @@
 # BADPHISHER
 
-- this is an phishing tool...!
+- [+] This is an phishing tool...!
 
-- created By Mr.Devil Dark Tool Zone Admin Team
+- [+] created By Mr.Devil Dark Tool Zone Admin Team
 
-# For termux
+# Install for termux
 
 - $ pkg update -y
 
@@ -24,7 +24,7 @@
 
 - $ bash badphisher.sh
 
-# For kali Linux
+# Install for kali Linux
 
 - $ sudo apt update
 
@@ -36,4 +36,4 @@
 
 - $ bash badphisher.sh
 
-# Have a Good Day !!!
+# Have a Good Day !
