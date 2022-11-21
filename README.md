@@ -4,7 +4,7 @@
 
 - 📌 created By Mr.Devil Dark Tool Zone Admin Team
 
-# Install for termux
+# 📥 Install for termux
 
 - $ pkg update -y
 
@@ -24,7 +24,7 @@
 
 - $ bash badphisher.sh
 
-# Install for kali Linux
+# 📥 Install for kali Linux
 
 - $ sudo apt update
 
@@ -36,4 +36,4 @@
 
 - $ bash badphisher.sh
 
-# Have a Good Day !
+# 🙋‍♂️ Have a Good Day !
